@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Document Object Model",
+      "content": "Bla bla bla.",
+      "author": "Artur Delura"
+    },
+    {
+      "id": 2,
+      "title": "REST",
+      "content": "Bla bla bla.",
+      "author": "Gosia Ksionek"
+    }
+  ],
+  "app": [],
+  "app.html": [],
+  "jquery-1.11.2.js": []
+}
